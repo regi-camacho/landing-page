@@ -1,0 +1,47 @@
+
+ul{
+ list-style-type: none;
+
+}
+
+#first{
+    display: flex;
+    justify-content: center;
+
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+}
+
+.header-upper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-link{
+    display: flex;
+}
+
+.header-lower{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-body{
+    flex-basis: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
